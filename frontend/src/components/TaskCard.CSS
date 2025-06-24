@@ -1,0 +1,11 @@
+.task-card {
+  background: #f1f1f1;
+  padding: 1rem;
+  border-radius: 10px;
+  margin-bottom: 1rem;
+}
+
+.task-card.completed {
+  background: #d4edda;
+  text-decoration: line-through;
+}
